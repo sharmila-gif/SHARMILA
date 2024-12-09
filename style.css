@@ -1,0 +1,20 @@
+.h2{
+    text-align: center;
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+}
+#ul-style{
+    background-color: aqua;
+    color:chocolate;
+}
+.foot{
+    text-align: center;
+    text-decoration: none;
+    background-color:rgb(55, 18, 3) );
+    color:blue;
+}
+a
+{
+    text-decoration: none;
+}
